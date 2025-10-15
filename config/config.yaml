@@ -106,3 +106,5 @@ platforms:
     name: "早报"  
   - id: "cls-depth"
     name: "财联社深度"
+  - id: "fastbull"
+    name: "FastBull"

@@ -21,6 +21,8 @@ ai
 !gai
 人工智能
 
+硅谷
+
 DeepSeek
 梁文锋
 

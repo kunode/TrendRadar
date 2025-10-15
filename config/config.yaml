@@ -104,3 +104,5 @@ platforms:
     name: "雪球"
   - id: "zaobao"
     name: "早报"  
+  - id: "cls-depth"
+    name: "财联社深度"

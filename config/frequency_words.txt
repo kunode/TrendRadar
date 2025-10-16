@@ -19,6 +19,8 @@
 
 ai
 !gai
+!air
+!airpods
 人工智能
 
 硅谷

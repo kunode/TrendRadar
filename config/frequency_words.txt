@@ -18,7 +18,6 @@
 传感器
 
 ai
-!gai
 !air
 !airpods
 人工智能
